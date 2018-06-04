@@ -1,6 +1,6 @@
 def looping
 	#your code here
-	while TRUE
+	loop do
     puts "Wingardium Leviosa"
   end
 end
